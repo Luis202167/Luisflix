@@ -6,10 +6,11 @@ sinopse:Os investigadores paranormais Ed e Lorraine Warren trabalham para ajudar
 
 It a coisa
 Sinopse:Um grupo de crianças se une para investigar o misterioso desaparecimento de vários jovens em sua cidade. Eles descobrem que o culpado é Pennywise, um palhaço cruel que se alimenta de seus medos e cuja violência teve origem há vários séculos.
+![](https://media1.tenor.com/m/Ti0yhMQzCgUAAAAd/hi-clown.gif)
 
 Annabelle
 sinopse:John Form acha que encontrou o presente ideal para sua esposa grávida, uma boneca vintage. No entanto, a alegria do casal não dura muito. Uma noite terrível, membros de uma seita satânica invadem a casa do casal em um ataque violento. Ao tentarem invocar um demônio, eles mancham a boneca de sangue, tornando-a receptora de uma entidade do mal.
-
+![](https://media1.tenor.com/m/P7ZtZXFwuTIAAAAd/annabelle-creepy.gif)
 
 Gente Grande
 sinopse:A morte do treinador de basquete de infância de velhos amigos reúne a turma no mesmo lugar que celebraram um campeonato anos atrás. Os amigos, acompanhados de suas esposas e filhos, descobrem que idade não significa o mesmo que maturidade.
