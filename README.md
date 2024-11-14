@@ -1,4 +1,5 @@
 # Luisflix
+
 Invocação do mal
 sinopse:Os investigadores paranormais Ed e Lorraine Warren trabalham para ajudar a família aterrorizada por uma entidade demoníaca em sua fazenda.
 
@@ -28,8 +29,6 @@ sinopse:Muitas sociedades de macacos cresceram desde quando César levou seu pov
 
 John Wick
 sinopse:John Wick é um lendário assassino de aluguel aposentado, lidando com o luto após perder o grande amor de sua vida. Quando um gângster invade sua casa, mata seu cachorro e rouba seu carro, ele é forçado a voltar à ativa e inicia sua vingança.
-!{}(https://media1.tenor.com/m/Dab4P2NEa6MAAAAC/john-wick.gif)
 
 Velozes e Furiosos 
 sinopse:Brian O'Conner é um policial que se infiltra no submundo dos rachas de rua para investigar uma série de furtos. Enquanto tenta ganhar o respeito e a confiança do líder Dom Toretto, ele corre o risco de ser desmascarado.
-!{}(https://media1.tenor.com/m/7Ienx0j5cqoAAAAd/fast-and.gif)
