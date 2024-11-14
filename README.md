@@ -35,3 +35,7 @@ sinopse:John Wick é um lendário assassino de aluguel aposentado, lidando com o
 Velozes e Furiosos 
 sinopse:Brian O'Conner é um policial que se infiltra no submundo dos rachas de rua para investigar uma série de furtos. Enquanto tenta ganhar o respeito e a confiança do líder Dom Toretto, ele corre o risco de ser desmascarado.
 ![](https://media1.tenor.com/m/7Ienx0j5cqoAAAAd/fast-and.gif)
+
+Vingadores
+sinopse:Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.
+![](https://media1.tenor.com/m/0Tu4Xc03dUgAAAAd/the-avengers-marvel.gif)
